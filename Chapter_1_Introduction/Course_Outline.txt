@@ -1,0 +1,8 @@
+First we will be learning what machine learning is and it's history.
+Then we will have 2 paths which are for programmers and beginners respectively.
+After that, we will be introduced to the work environments like jupyter notebook.
+We will learn Numpy, Pandas, Matplotlib, ScikitLearn.
+We will be learning topics Supervised Learning and Neural Networks.
+We will be working with real life problems, do classifications and regressions.
+We will be introduced to Data Engineering.
+And last but not least, we will learn storytelling & communication.
