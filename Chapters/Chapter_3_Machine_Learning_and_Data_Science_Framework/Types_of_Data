@@ -1,0 +1,8 @@
+Data Kinds:
+--> Structured Data: Excel Files like customer or patient records. We can say that table like data can be called Structured Data.
+--> Unstructured Data: Images, Natural Language, Transcribed phone calls. 
+-> Static Data: Data that is seperated with for example commas. Values do nat change over time. (The More Data The Better)
+-> Streaming Data: Data that is changed over time.
+
+Data Science Workflow:
+Static Data => Jupyter, Spyder, etc. => Pandas => Data Analysis => Matplotlib => Machine Learning Model => Prediction

@@ -1,0 +1,6 @@
+Machine Learing uses input data to predict upcoming datas output.(Predicting output from incoming data)
+We can divide Machine Learning subcategories as:
+        -> Supervised: Data already has subcategories like csv files or tables.(Labeled Data)
+        -> Unsupervised: Data does not have labels. (Groups do not exist)(Csv file that has no labels) We will make clustering for grouping data.
+        -> Reinforcement: Teaching Machines throughout trial and error concept. Through rewards and punishment.
+All of these subcategories have different algortihmic techniques for predicting data as a final output.

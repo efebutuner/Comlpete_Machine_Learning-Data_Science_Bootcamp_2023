@@ -1,0 +1,15 @@
+Main Types of Machine Learning:
+    -> Supervised Learning
+    -> Unsupervised Learning
+    -> Transfer Learning
+    -> Reinforcement Learning
+    
+Supervised Learning: Data and Labels, Machine learning algorithm tries to find label by using data. Regression and Classification are some popular type of supervised learning. If 2 options only --> Binary Classification, Multiple options --> Multi-Class Classification. Regression problem may be house price prediction.
+
+Unsupervised Learning: Only Data, we do not have Labels in Unsupervised Learning. We try to plot the data, cluster it in groups and than label those data groups for classification and prediction.
+
+Transfer Learning: You can fine tune already existing machine learning model to predict or figure out an image classification or data.
+
+Reinforcement Learning: Rewarding a machine learning model if it predicts well and punishing for wrong implementations.
+
+While choosing our learning model we should find out whether we have inputs and outputs or relation between them to make a correct choice of learning model.

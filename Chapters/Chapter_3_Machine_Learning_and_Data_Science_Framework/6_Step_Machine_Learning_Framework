@@ -1,0 +1,7 @@
+A little field guide for Machine Learning:
+    -> 1. Problem Definition: What is the problem we are trying to solve, is it supervised, unsupervised or reinforcement.
+    -> 2. Data: What kind of data do we have?
+    -> 3. Evaluation: What defines success for us?(%95 Accurate Model)
+    -> 4. Features: What dowe already know about the data?
+    -> 5. Modelling: Based on our problem and data, which model should you choose?
+    -> 6. Experiments: What else could we try? Does our deployed model do as we expected?
