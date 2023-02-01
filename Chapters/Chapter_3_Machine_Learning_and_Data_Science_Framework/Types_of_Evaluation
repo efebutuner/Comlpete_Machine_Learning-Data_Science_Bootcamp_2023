@@ -1,0 +1,7 @@
+Evaluation: What is success for us?
+-> Define the accuracy of your model.
+
+Different Types of Metrics in Evaluation:
+    -> Classification Problems = Accuracy, Precision, Recall
+    -> Regression Problems = Mean Absolute Error(MAE), Mean Squared Error(MSE), Root Mean Squared Error(RMSE)
+    -> Recommendation = Precision at K

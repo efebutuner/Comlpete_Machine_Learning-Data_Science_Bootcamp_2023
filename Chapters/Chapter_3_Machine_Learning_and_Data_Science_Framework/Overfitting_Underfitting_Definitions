@@ -1,0 +1,11 @@
+Training Data Set should be splitted from the original data set in a percentage of %70-80
+Validation/Development Set should be splitted in a %10-15 ratio from the original data set
+And, Finally the Test Set should be spliited from the original data in a percentage range of %10-15
+
+Underfitting means that the training data performance of our model is lacking or in other words the model has not learned the training data efficiently or good enough.
+To prevent underfitting we can try collecting more data or improving the existing model through hyperparameters.
+
+Overfitting means that our model's performance in training data is much more better than its performance in test data set.
+To prevent overfitting we can try to use a simpler model and double-check that the style of training data and test data are similar(labels (columns) with respect to rows)
+Another form of overfitting is the one that comes with high test data performance but lower training data performance which is usually due to data leakage, in that case we can say that our test data is leaking to the training data set, or we spend too much time optimizing our model for test data.
+We can prevent this by double-checking that our training and testing sets are seperate from each other.

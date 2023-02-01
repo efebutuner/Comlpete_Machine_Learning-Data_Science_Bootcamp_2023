@@ -1,0 +1,6 @@
+Conda makes us able to create an Environment for our project.
+Environment ==> Packages and Modules all together that are used in a Project.
+When Setting up a new Project:
+    -> Create a new Folder in Desktop
+    -> Get all the files and environments inside that folder for ease of use. (Data Sets, Notebooks, Environments...)
+    

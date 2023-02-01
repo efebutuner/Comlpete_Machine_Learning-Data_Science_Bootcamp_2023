@@ -1,0 +1,35 @@
+Modelling:
+    -> Splitting Data
+We should split our data to 3 different sets which are: Training, Validation and Test sets.
+Training Set can be referred as course materials which students learn for exams.
+Validation is practice exam.
+Test set is the final exam.
+
+Training set is usually (%70-80) whereas Validation set and Test sets will be (%15-20) each.
+
+    -> Choosing
+For Structured Data, Decision Trees like Random Forest, CatBoost, or XGBoost will be the best way to go on our model.
+For Unstructured Data, Deep Learning Neural Networks and Transfer Learning is suitable.
+We will be trying to minimize training time of our models.
+
+    -> Tuning
+We change parameters for gathering precise outputs from predictions.
+Random Forrest enables us to select the number of trees.
+Neural Networks give us the ability to set number of layers.
+These examples are for understanding tuning of Machine Learning.
+Machine Learning models have Hyperparameters which are parameters for increasing accuracy of a model.
+
+    -> Comparison
+How will our model perform in real world.
+We will test our data by deploying it with test set, we will evaluate the model by test set.
+A good model will perform good in train, validation and test sets.
+When the training set performance of a model is higher than the test set, we call it UNDERFITTING
+When the test set performance of a model is higher than the training set performance, we call it OVERFITTING
+Overfitted and Underfitted models are not suitable for classification and prediction.
+So, a Balanced Model will be desired for Machine Learning
+Data Leakage results in Overfitting
+Data Mismatch results in Underfitting
+
+For Fixing Underfitted Model => Try an advanced model, Increase model hyperparameters, Reduce the amount of features, Train longer
+For Fixing Overfitted Model => Enlarge your dataset, try a less advanced model
+While comparing models, you should compare both training time, prediction accuracy and prediction time

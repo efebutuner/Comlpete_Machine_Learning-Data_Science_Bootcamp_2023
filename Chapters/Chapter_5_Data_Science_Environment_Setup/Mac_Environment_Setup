@@ -1,0 +1,35 @@
+First we open the terminal:
+user_name$ cd desktop -> changes the directory to desktop.
+desktop user_name$ mkdir sample_project -> makes a directory or folder named sample_project
+desktop user_name$ ls  -> lists all the folders in that desktop
+desktop user_name$ cd sample_project -> changes the directory to sample_project
+sample_project user_name$ ls -> lists the folders inside sample_project
+sample_project user_name$ conda create --prefix ./env pandas numpy matplotlib scikit-learn --> creates an environment inside sample_project that has the packages specified
+
+To activate the environment:
+$ conda activate /Users/user_name/Desktop/sample_project/env
+
+To deactivate:
+$ conda deactivate
+
+$ conda env list --> lists the conda environments
+
+To download Jupyter Notebook to the environment:
+$ conda install jupyter
+
+To open Jupyter Notebook from Terminal:
+$ jupyter notebook
+
+Writing code to the Jupyter Notebook:
+create a python 3 file and start writing codes to the blocks in Jupyter Notebook
+
+Closing Jupyter Notebook:
+We hit ctrl+s to save the Jupyter Notebook while we are in terminal and we write $ conda deactivate to close the environment
+
+After closing our environment, to reconnect to it we must write:
+sample_project user_name$ conda activate /Users/User_Name/Desktop/sample_project/env (the path of our environment)
+and after that to reconnect to the Jupyter Notebook:
+sample_project user_name$ jupyter notebook
+
+To Clear the terminal:
+clear (and hit enter)

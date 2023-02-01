@@ -1,0 +1,24 @@
+To upload a file to our Jupyter Notebook, we simply hit the upload button then we find the csv doc or any document of preference and select it than we hit upload for one last time and we have uploaded the document.
+
+To run a block of code we simply hit shift + enter (runs the code),
+
+We can select code or markdown cells:
+-> Code Blocks: In which we will be writing our Python Code
+-> Markdown Blocks: To text inside like creating titles and labels or comments in Jupyter Notebook
+
+When we want to make a Title or Label we can follow these steps:
+1- Change the blocks mode to command mode using esc while your cusror is inside the block
+2- Hit m button for changing the type of the code block to markdown
+3- For turning back to code from markdown, simply push y key to change it.
+
+To generate a cell block between 2 cells we simply press the esc+b buttons.
+To upload an image to the Jupyter Notebook we use following steps
+1- We upload the image to Jupyter Notebook just like a csv file
+2- We create a markdown block(by selecting or pressing esc and m)
+3- We write ![.]("image_name.png") and press shift enter
+
+We can use ls just like in terminal inside the Jupyter Notebook for listing what we have inside the environment (just  documents and ipynb)
+
+We can also save our documents by pressing s while we are in command mode. 
+
+To shut down Jupyter Notebook we press control + C and than press y after it asks us to be sure. 

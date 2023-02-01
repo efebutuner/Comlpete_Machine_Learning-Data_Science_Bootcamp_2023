@@ -1,0 +1,5 @@
+We will be using Anaconda on our computer.
+We will download jupyter notebook, pandas, numpy scikitlearn, matplotlib, pytorch, tensorflow
+We basically will use jupyter notebooks to program and create our Machine Learning projects
+For Data Analysis(First 4 parts of 6 Step Process) => Pandas, Matplotlib, Numpy
+For Machine Learing(5th Step of & Step Process) => TensorFlow, PyTorch, Scikitlearn, Catboost, dmlc XGBoost
